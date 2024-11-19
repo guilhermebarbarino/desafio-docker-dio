@@ -69,15 +69,3 @@ services:
 
 ---
 
-### **4. Estilizando e expandindo o projeto**
-Se desejar, você pode adicionar **CSS** e **JavaScript** para tornar sua página mais interativa:
-- Crie arquivos como `style.css` e `script.js` na pasta `html`.
-- Atualize o `index.html` para incluir links para esses arquivos.
-
-Exemplo:
-```html
-<link rel="stylesheet" href="style.css">
-<script src="script.js" defer></script>
-```
-
----
